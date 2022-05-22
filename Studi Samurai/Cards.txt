@@ -1,0 +1,25 @@
+Welcome!
+
+Config
+
+Starting points: 120
+Points drained per second: 1
+Points gained/lost when you answer a question: 30
+
+Cards
+
+Please format your cards like the ones shown below
+You must have at least 4 cards
+
+Q: Powerhouse of the cell A: Mitochondria
+
+Q: The meaning of life, the universe and everything A: 42
+
+Q: Why did the football coach go to the bank? A: To get his quarter back
+
+Q: What is the speed of light A: 299,792,458 m/s
+
+Q: Who is Peter Griffins firstborn A: Chris
+
+
+
